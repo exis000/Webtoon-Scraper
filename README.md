@@ -1,3 +1,5 @@
 # Webtoon-Scraper
 
-uses bs4 and request and json scrapes the website of all the title author and likes
+simple basic web scraping code to get an idea from
+
+**scrapes webtoon website**
